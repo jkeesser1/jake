@@ -1,0 +1,6 @@
+)]}'
+{
+  "name": "apps",
+  "clone_url": "https://chromium.googlesource.com/apps",
+  "description": "Various Chrome Apps (built using JS/CSS/HTML/etc...)"
+}
